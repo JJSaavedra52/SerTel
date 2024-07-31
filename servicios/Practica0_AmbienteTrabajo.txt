@@ -1,0 +1,11 @@
+Nombre: Juan José Saavedra Realpe
+Código: 2210120
+
+----------Directorios Sincronizados de Vagrant----------
+
+Básicamente vagrant permite el sincronizar las carpetas 
+dentro del directorio en donde está el archivo VagrantFile
+con la carpeta vagrant en nuestra VM.
+
+Fuente: 
+https://etrivinos.wordpress.com/2016/01/12/vagrant-iii-sincronizacion-de-carpetas/
